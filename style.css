@@ -1,0 +1,19 @@
+p {
+    color: khakis;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table * {
+    border: 2px;
+    border-color: crimson;
+    border-style: solid;
+    
+}
+
+img * {
+border: 80px;
+
+}
